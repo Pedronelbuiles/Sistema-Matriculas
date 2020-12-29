@@ -1,0 +1,30 @@
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libMatriculasRN.pdb
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libConexionBd.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLlenarGrids.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLeerParametrosCnx.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libConexionBd.pdb
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLlenarGrids.pdb
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLeerParametrosCnx.pdb
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\obj\Debug\libMatriculasRN.csprojAssemblyReference.cache
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\obj\Debug\libMatriculasRN.csproj.CoreCompileInputs.cache
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\obj\Debug\libMatriculasRN.csproj.CopyComplete
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\obj\Debug\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\obj\Debug\libMatriculasRN.pdb
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLlenarCombos.dll
+D:\Docencia\ITM\POO\slnMatriculas\libMatriculasRN\bin\Debug\libLlenarCombos.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libMatriculasRN.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libConexionBd.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLlenarCombos.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLlenarGrids.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLeerParametrosCnx.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libConexionBd.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLlenarCombos.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLlenarGrids.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\bin\Debug\libLeerParametrosCnx.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\obj\Debug\libMatriculasRN.csprojAssemblyReference.cache
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\obj\Debug\libMatriculasRN.csproj.CoreCompileInputs.cache
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\obj\Debug\libMatriculasRN.csproj.CopyComplete
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\obj\Debug\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\libMatriculasRN\obj\Debug\libMatriculasRN.pdb

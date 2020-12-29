@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<parametros>
+	<Servidor>YISUS\PROFEYISUS</Servidor>
+	<BaseDatos>dbUniversidad</BaseDatos>
+  <SeguridadIntegrada>SI</SeguridadIntegrada>
+	<Usuario></Usuario>
+	<Clave></Clave>	
+</parametros>

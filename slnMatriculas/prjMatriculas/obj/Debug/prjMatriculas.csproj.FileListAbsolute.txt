@@ -1,0 +1,138 @@
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\prjMatriculas.dll.config
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\prjMatriculas.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\prjMatriculas.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csc.exe
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csc.exe.config
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csc.rsp
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csi.exe
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csi.exe.config
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\csi.rsp
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.AppContext.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Collections.Immutable.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Console.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.IO.Compression.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.IO.FileSystem.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.IO.Pipes.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.AccessControl.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Claims.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.ValueTuple.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Xml.XPath.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\vbc.exe
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\vbc.exe.config
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\vbc.rsp
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\VBCSCompiler.exe
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\roslyn\VBCSCompiler.exe.config
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\obj\Debug\prjMatriculas.csprojAssemblyReference.cache
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\obj\Debug\prjMatriculas.csproj.CoreCompileInputs.cache
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\obj\Debug\prjMatriculas.csproj.CopyComplete
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\obj\Debug\prjMatriculas.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\obj\Debug\prjMatriculas.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libMatriculaOpe.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libConexionBd.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLlenarGrids.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLeerParametrosCnx.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libMatriculaOpe.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libMatriculasRN.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libConexionBd.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLlenarGrids.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLeerParametrosCnx.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLlenarCombos.dll
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\libLlenarCombos.pdb
+D:\Docencia\ITM\POO\slnMatriculas\prjMatriculas\bin\CON_prjMatriculas.xml
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\CON_prjMatriculas.xml
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\prjMatriculas.dll.config
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\prjMatriculas.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\prjMatriculas.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csc.exe
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csc.exe.config
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csc.rsp
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csi.exe
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csi.exe.config
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\csi.rsp
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.AppContext.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Collections.Immutable.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Console.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.IO.Compression.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.IO.FileSystem.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.IO.Pipes.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.AccessControl.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Claims.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.ValueTuple.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Xml.XPath.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\vbc.exe
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\vbc.exe.config
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\vbc.rsp
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\VBCSCompiler.exe
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\roslyn\VBCSCompiler.exe.config
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libMatriculaOpe.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libMatriculasRN.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libConexionBd.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLlenarGrids.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLlenarCombos.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLeerParametrosCnx.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libMatriculaOpe.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libMatriculasRN.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libConexionBd.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLlenarGrids.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLlenarCombos.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\bin\libLeerParametrosCnx.pdb
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\obj\Debug\prjMatriculas.csprojAssemblyReference.cache
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\obj\Debug\prjMatriculas.csproj.CoreCompileInputs.cache
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\obj\Debug\prjMatriculas.csproj.CopyComplete
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\obj\Debug\prjMatriculas.dll
+D:\Docencia\ITM\POO\slnMatriculas - copia\prjMatriculas\obj\Debug\prjMatriculas.pdb
